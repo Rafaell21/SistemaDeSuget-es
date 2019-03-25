@@ -1,0 +1,6 @@
+C:\Users\elton\Desktop\drivers dell\TRABALHO HUMBERTO\Campanha_sugestao\Campanha_sugestao.DTO\bin\Debug\Campanha_sugestao.DTO.dll
+C:\Users\elton\Desktop\drivers dell\TRABALHO HUMBERTO\Campanha_sugestao\Campanha_sugestao.DTO\bin\Debug\Campanha_sugestao.DTO.pdb
+C:\Users\elton\Desktop\drivers dell\TRABALHO HUMBERTO\Campanha_sugestao\Campanha_sugestao.DTO\obj\Debug\Campanha_sugestao.DTO.csprojAssemblyReference.cache
+C:\Users\elton\Desktop\drivers dell\TRABALHO HUMBERTO\Campanha_sugestao\Campanha_sugestao.DTO\obj\Debug\Campanha_sugestao.DTO.csproj.CoreCompileInputs.cache
+C:\Users\elton\Desktop\drivers dell\TRABALHO HUMBERTO\Campanha_sugestao\Campanha_sugestao.DTO\obj\Debug\Campanha_sugestao.DTO.dll
+C:\Users\elton\Desktop\drivers dell\TRABALHO HUMBERTO\Campanha_sugestao\Campanha_sugestao.DTO\obj\Debug\Campanha_sugestao.DTO.pdb
